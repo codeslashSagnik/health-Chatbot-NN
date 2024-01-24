@@ -21,14 +21,6 @@ Dependencies:
 Before running the application you need to install the dependencies. We recommend to use the virtual environment
 [virtualenv](https://pypi.org/project/virtualenv/) for this.
 
-Linux:
-
-```
-python3 -m venv venv
-venv/bin/activate
-pip install flask torch nltk numpy sklearn pandas matplotlib
-```
-Windows:
 
 ```
 py -3 -m venv venv
