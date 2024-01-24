@@ -1,6 +1,6 @@
 # Overview
 
-Creating medical chatbot using Python (*Flask*) and machine learning algorithms for purposes of project for the course of Intelligent Systems at the Faculty of Organization and Informatics, University of Zagreb. 
+Creating medical chatbot using Python (*Flask*) and machine learning algorithms for purposes of project  
 
 # Requirements
 
